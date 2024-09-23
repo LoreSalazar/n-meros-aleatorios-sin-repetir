@@ -1,0 +1,3 @@
+﻿  n_sin_repetir.cpp
+C:\Users\loren\source\repos\n_sin_repetir\n_sin_repetir\n_sin_repetir.cpp(13,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  n_sin_repetir.vcxproj -> C:\Users\loren\source\repos\n_sin_repetir\n_sin_repetir\x64\Debug\n_sin_repetir.exe

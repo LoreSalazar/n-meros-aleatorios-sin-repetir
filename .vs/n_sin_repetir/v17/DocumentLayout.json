@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loren\\source\\repos\\n_sin_repetir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85884080-9C20-4E29-8C9F-08A159FF2BB5}|n_sin_repetir\\n_sin_repetir.vcxproj|C:\\Users\\loren\\source\\repos\\n_sin_repetir\\n_sin_repetir\\n_sin_repetir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85884080-9C20-4E29-8C9F-08A159FF2BB5}|n_sin_repetir\\n_sin_repetir.vcxproj|solutionrelative:n_sin_repetir\\n_sin_repetir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "n_sin_repetir.cpp",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\n_sin_repetir\\n_sin_repetir\\n_sin_repetir.cpp",
+              "RelativeDocumentMoniker": "n_sin_repetir\\n_sin_repetir.cpp",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\n_sin_repetir\\n_sin_repetir\\n_sin_repetir.cpp",
+              "RelativeToolTip": "n_sin_repetir\\n_sin_repetir.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T23:10:36.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
